@@ -26,4 +26,5 @@
 }
 #navbar-container ul li a:hover {
   background-color: #000;
+  text-decoration: underline overline;
 }
